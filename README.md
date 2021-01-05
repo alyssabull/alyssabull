@@ -1,6 +1,5 @@
 # Alyssa Bull
 
-#### About Me
 - :wave:&nbsp;  Hi there! I’m currently a Mod 3 student in the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - 😄&nbsp; Pronouns: she/her
 - 🌱&nbsp; Currently Learning: TypeScript on a group project [Covid Comparisons](https://github.com/Codo-Baggins/covid_comparisons)
@@ -24,6 +23,7 @@
 
 --- 
 
+#### Technologies & Packages
 <div align="center">
   <img alt="Atom" src="https://img.shields.io/badge/atom%20-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=%23EFF7FF" />
   <img alt="CSS-3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
