@@ -3,16 +3,21 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alyssabull/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
-  <a href="https://www.codewars.com/users/alyssabull"><img alt="codewars" src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e" /></a>
-  <a href="mailto:alyssabull@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&logo=google&colorB=f2c236" /></a>
+  <a href="https://github.com/alyssabull/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyssabull&show_icons=true&theme=graywhite" height="200" width="500"/>
+  </a>
+  <a href="https://github.com/alyssabull/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabull&theme=graywhite" height="200" width="300"/>
+  </a>
 </div>
 
----  
+--- 
 
+#### About Me
 - 🔭&nbsp;  I’m currently a Mod 3 student in the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - 😄&nbsp; Pronouns: she/her
 - 🌱&nbsp; Currently Learning: TypeScript on a group project [Covid Comparisons](https://github.com/Codo-Baggins/covid_comparisons)
+- :speech-balloon:&nbsp; Ask me about any of my favorite projects below!
 - :heart:&nbsp; Things I love:
   - :crown:&nbsp; Playing chess
   - :dog:&nbsp; Spending time with my Husky Psi
@@ -21,7 +26,7 @@
 
 ---
 
-### Technologies:
+#### Technologies:
 <div align="center">
   <img alt="Atom" src="https://img.shields.io/badge/atom%20-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=%23EFF7FF" />
   <img alt="CSS-3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,7 +36,7 @@
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=%23EFF7FF" />
 </div>
 
-### Packages:
+#### Packages:
 <div align="center">
     <p>
       <a href="https://www.npmjs.com/package/mocha">Mocha </a>/
@@ -43,4 +48,3 @@
   </p>
 </div>
 
----
