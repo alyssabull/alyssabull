@@ -23,7 +23,7 @@
 
 --- 
 
-#### Technologies & Packages
+### Technologies
 <div align="center">
   <img alt="Atom" src="https://img.shields.io/badge/atom%20-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=%23EFF7FF" />
   <img alt="CSS-3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
