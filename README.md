@@ -1,5 +1,31 @@
 # Alyssa Bull
 
+---
+
+#### About Me
+- 🔭&nbsp;  I’m currently a Mod 3 student in the Front End program at [Turing School Of Software and Design](https://turing.io/)
+- 😄&nbsp; Pronouns: she/her
+- 🌱&nbsp; Currently Learning: TypeScript on a group project [Covid Comparisons](https://github.com/Codo-Baggins/covid_comparisons)
+- :speech-balloon:&nbsp; Ask me about any of my favorite projects below!
+- :heart:&nbsp; Things I love:
+  - :crown:&nbsp; Playing chess
+  - :dog:&nbsp; Spending time with my Husky Psi
+  - :snowboarder:&nbsp; Snowboarding in the mountains
+  - :fork_and_knife:&nbsp; Cooking up new recipes!
+
+---
+
+<div align="center">
+  <a href="https://github.com/alyssabull/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyssabull&show_icons=true&theme=graywhite" height="200" width="500"/>
+  </a>
+  <a href="https://github.com/alyssabull/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabull&theme=graywhite" height="200" width="300"/>
+  </a>
+</div>
+
+--- 
+
 <div align="center">
   <img alt="Atom" src="https://img.shields.io/badge/atom%20-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=%23EFF7FF" />
   <img alt="CSS-3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -19,30 +45,3 @@
       <a href="https://www.npmjs.com/package/webpack">Webpack</a>
   </p>
 </div>
-
----
-
-<div align="center">
-  <a href="https://github.com/alyssabull/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyssabull&show_icons=true&theme=graywhite" height="200" width="500"/>
-  </a>
-  <a href="https://github.com/alyssabull/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabull&theme=graywhite" height="200" width="300"/>
-  </a>
-</div>
-
---- 
-
-#### About Me
-- 🔭&nbsp;  I’m currently a Mod 3 student in the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- 😄&nbsp; Pronouns: she/her
-- 🌱&nbsp; Currently Learning: TypeScript on a group project [Covid Comparisons](https://github.com/Codo-Baggins/covid_comparisons)
-- :speech-balloon:&nbsp; Ask me about any of my favorite projects below!
-- :heart:&nbsp; Things I love:
-  - :crown:&nbsp; Playing chess
-  - :dog:&nbsp; Spending time with my Husky Psi
-  - :snowboarder:&nbsp; Snowboarding in the mountains
-  - :fork_and_knife:&nbsp; Cooking up new recipes!
-
----
-
