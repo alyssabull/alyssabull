@@ -2,7 +2,7 @@
 
 - :wave:&nbsp;  Hi there! I’m a Mod 3 student in the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - 😄&nbsp; Pronouns: she/her
-- 🌱&nbsp; Currently Learning: TypeScript on a group project [Covid Comparisons](https://github.com/Codo-Baggins/covid_comparisons)
+- 🌱&nbsp; Currently Learning: TypeScript on a group project [Covid Comparisons](https://github.com/alyssabull/covid_comparisons)
 - 💬&nbsp; Ask me about any of my favorite projects below!
 - :heart:&nbsp; Things I love:
   - :crown:&nbsp; Playing chess
