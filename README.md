@@ -2,7 +2,7 @@
 
 - :wave:&nbsp;  Hi there! I’m a Mod 4 student in the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - 😄&nbsp; Pronouns: she/her
-- 🌱&nbsp; Currently Working On: Refactoring my TypeScript project [Covid Comparisons](https://alyssabull.github.io/covid_comparisons) to add more features!
+- 🌱&nbsp; Currently Working On: My Capstone Project [Pack Smart](https://github.com/Pack-Smart/pack-smart-fe)!
 - 💬&nbsp; Ask me about any of my favorite projects below!
 - :heart:&nbsp; Things I love:
   - :crown:&nbsp; Playing chess
