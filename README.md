@@ -1,17 +1,5 @@
 # Alyssa Bull
 
-- :wave:&nbsp;  Hi there! I’m a Mod 4 student in the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- 😄&nbsp; Pronouns: she/her
-- 🌱&nbsp; Currently Working On: My Capstone Project [Pack Smart](https://github.com/Pack-Smart/pack-smart-fe)!
-- 💬&nbsp; Ask me about any of my favorite projects below!
-- :heart:&nbsp; Things I love:
-  - :crown:&nbsp; Playing chess
-  - :dog:&nbsp; Spending time with my Husky Psi
-  - :snowboarder:&nbsp; Snowboarding in the mountains
-  - :fork_and_knife:&nbsp; Cooking up new recipes!
-
----
-
 <div align="center">
   <a href="https://github.com/alyssabull/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyssabull&show_icons=true&theme=graywhite" height="200" width="500"/>
